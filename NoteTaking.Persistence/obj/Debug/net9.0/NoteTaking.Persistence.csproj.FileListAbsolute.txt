@@ -1,0 +1,17 @@
+D:\RiderProject\NoteTaking\NoteTaking.Persistence\bin\Debug\net9.0\NoteTaking.Persistence.deps.json
+D:\RiderProject\NoteTaking\NoteTaking.Persistence\bin\Debug\net9.0\NoteTaking.Persistence.dll
+D:\RiderProject\NoteTaking\NoteTaking.Persistence\bin\Debug\net9.0\NoteTaking.Persistence.pdb
+D:\RiderProject\NoteTaking\NoteTaking.Persistence\bin\Debug\net9.0\NoteTaking.Core.dll
+D:\RiderProject\NoteTaking\NoteTaking.Persistence\bin\Debug\net9.0\NoteTaking.Domain.dll
+D:\RiderProject\NoteTaking\NoteTaking.Persistence\bin\Debug\net9.0\NoteTaking.Core.pdb
+D:\RiderProject\NoteTaking\NoteTaking.Persistence\bin\Debug\net9.0\NoteTaking.Domain.pdb
+D:\RiderProject\NoteTaking\NoteTaking.Persistence\obj\Debug\net9.0\NoteTaking.Persistence.csproj.AssemblyReference.cache
+D:\RiderProject\NoteTaking\NoteTaking.Persistence\obj\Debug\net9.0\NoteTaking.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProject\NoteTaking\NoteTaking.Persistence\obj\Debug\net9.0\NoteTaking.Persistence.AssemblyInfoInputs.cache
+D:\RiderProject\NoteTaking\NoteTaking.Persistence\obj\Debug\net9.0\NoteTaking.Persistence.AssemblyInfo.cs
+D:\RiderProject\NoteTaking\NoteTaking.Persistence\obj\Debug\net9.0\NoteTaking.Persistence.csproj.CoreCompileInputs.cache
+D:\RiderProject\NoteTaking\NoteTaking.Persistence\obj\Debug\net9.0\NoteTaki.BFC11EEB.Up2Date
+D:\RiderProject\NoteTaking\NoteTaking.Persistence\obj\Debug\net9.0\NoteTaking.Persistence.dll
+D:\RiderProject\NoteTaking\NoteTaking.Persistence\obj\Debug\net9.0\refint\NoteTaking.Persistence.dll
+D:\RiderProject\NoteTaking\NoteTaking.Persistence\obj\Debug\net9.0\NoteTaking.Persistence.pdb
+D:\RiderProject\NoteTaking\NoteTaking.Persistence\obj\Debug\net9.0\ref\NoteTaking.Persistence.dll

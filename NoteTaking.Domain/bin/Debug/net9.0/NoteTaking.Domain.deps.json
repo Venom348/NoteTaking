@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "NoteTaking.Domain/1.0.0": {
+        "runtime": {
+          "NoteTaking.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NoteTaking.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

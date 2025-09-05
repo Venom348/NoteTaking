@@ -1,0 +1,11 @@
+D:\RiderProject\NoteTaking\NoteTaking.Domain\bin\Debug\net9.0\NoteTaking.Domain.deps.json
+D:\RiderProject\NoteTaking\NoteTaking.Domain\bin\Debug\net9.0\NoteTaking.Domain.dll
+D:\RiderProject\NoteTaking\NoteTaking.Domain\bin\Debug\net9.0\NoteTaking.Domain.pdb
+D:\RiderProject\NoteTaking\NoteTaking.Domain\obj\Debug\net9.0\NoteTaking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProject\NoteTaking\NoteTaking.Domain\obj\Debug\net9.0\NoteTaking.Domain.AssemblyInfoInputs.cache
+D:\RiderProject\NoteTaking\NoteTaking.Domain\obj\Debug\net9.0\NoteTaking.Domain.AssemblyInfo.cs
+D:\RiderProject\NoteTaking\NoteTaking.Domain\obj\Debug\net9.0\NoteTaking.Domain.csproj.CoreCompileInputs.cache
+D:\RiderProject\NoteTaking\NoteTaking.Domain\obj\Debug\net9.0\NoteTaking.Domain.dll
+D:\RiderProject\NoteTaking\NoteTaking.Domain\obj\Debug\net9.0\refint\NoteTaking.Domain.dll
+D:\RiderProject\NoteTaking\NoteTaking.Domain\obj\Debug\net9.0\NoteTaking.Domain.pdb
+D:\RiderProject\NoteTaking\NoteTaking.Domain\obj\Debug\net9.0\ref\NoteTaking.Domain.dll

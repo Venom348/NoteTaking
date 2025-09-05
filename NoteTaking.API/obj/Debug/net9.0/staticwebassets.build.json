@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "y1y3qQpFpJBm9o0MshSYN4KdEPi63qSJXFIrOmKHyuM=",
+  "Source": "NoteTaking.API",
+  "BasePath": "_content/NoteTaking.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
